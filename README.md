@@ -22,6 +22,7 @@ The main menu OST draws inspiration from *Cage* by Beizhou and the main theme of
 
 ## 📁 Repository Structure
 
+```
 res://
 ├─ assets/
 │  ├─ tiles/        Tilemap assets
@@ -38,7 +39,7 @@ res://
 └─ docs/
 ├─ GDD.md        Full Game Design Document
 └─ LICENSE       GPLv3 license text
-
+```
 
 ## 🧾 License & Fanwork Rules
 1. Godot Engine: MIT License, fully compatible with GPLv3 of this project.
